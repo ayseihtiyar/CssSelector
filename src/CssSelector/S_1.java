@@ -1,4 +1,4 @@
-package CssSelector_Odev_;
+package CssSelector;
 
 import Utlity.BaseDriver;
 import Utlity.MyFunc;
